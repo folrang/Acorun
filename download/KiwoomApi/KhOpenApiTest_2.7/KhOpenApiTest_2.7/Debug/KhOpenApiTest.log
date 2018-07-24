@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  RealAddDlg.cpp
+  RateDlg.cpp
+  OrderDlg.cpp
+p:\acorun\download\kiwoomapi\khopenapitest_2.7\khopenapitest_2.7\orderdlg.cpp(274): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+p:\acorun\download\kiwoomapi\khopenapitest_2.7\khopenapitest_2.7\orderdlg.cpp(450): warning C4101: 'lFid' :참조되지 않은 지역 변수입니다.
+  KwanSimDlg.cpp
+  KhOpenApiTestDlg.cpp
+  KhOpenApiTest.cpp
+  KHOpenAPICtrl.cpp
+  KHOpenAPI.cpp
+  TitleTip.cpp
+  InPlaceEdit.cpp
+  GridDropTarget.cpp
+  GridCtrl.cpp
+p:\acorun\download\kiwoomapi\khopenapitest_2.7\khopenapitest_2.7\gridctrl\gridctrl.cpp(161): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: 'GetVersionExA' 선언을 참조하십시오.
+  GridCellBase.cpp
+  GridCell.cpp
+  CurrentPriceDlg.cpp
+  코드를 생성하고 있습니다...
+  KhOpenApiTest.vcxproj -> P:\Acorun\download\KiwoomApi\KhOpenApiTest_2.7\KhOpenApiTest_2.7\Debug\KhOpenApiTest.exe
+  KhOpenApiTest.vcxproj -> P:\Acorun\download\KiwoomApi\KhOpenApiTest_2.7\KhOpenApiTest_2.7\Debug\KhOpenApiTest.pdb (Partial PDB)

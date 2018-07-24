@@ -1,0 +1,128 @@
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0414\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0414\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.csprojResolveAssemblyReference.cache
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0422-1 검색종목표시 구현 완료\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+c:\Kiwoom\Samples\KKK\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+c:\Kiwoom\Samples\KKK\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+c:\Kiwoom\Samples\KKK\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+c:\Kiwoom\Samples\KKK\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+c:\Kiwoom\Samples\KKK\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.csprojResolveAssemblyReference.cache
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+c:\Kiwoom\Samples\KKK\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0425_수정완료\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.csprojResolveAssemblyReference.cache
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+c:\Kiwoom\Kiwoom0427\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.csprojResolveAssemblyReference.cache
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0430 수익률 일부구현\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.csprojResolveAssemblyReference.cache
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0503 보유주식현황 구현중\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.csprojResolveAssemblyReference.cache
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0504-3자동매수매도 구현완성\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\Kiwoom0414.exe.config
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\Kiwoom0414.pdb
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\AxInterop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\bin\Debug\Interop.XA_SESSIONLib.dll
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Interop.KHOpenAPILib.dll
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.ResolveComReference.cache
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Kiwoom0414.Form1.resources
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Kiwoom0414.Properties.Resources.resources
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Kiwoom0414.csproj.GenerateResource.Cache
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Kiwoom0414.exe
+C:\ats\Kiwoom0414 정상작동\Kiwoom0414\obj\Debug\Kiwoom0414.pdb
