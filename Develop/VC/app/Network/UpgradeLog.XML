@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Network">
+</Property><Property Name="Solution File" Value="D:\AkoDev\Develop\VC\app\Network\Network.sln">
+</Property><Property Name="Date" Value="2011년 5월 12일 목요일">
+</Property><Property Name="Time" Value="오후 18:10">
+</Property></Properties><Event ErrorLevel="0" Project="NetworkServer" Source="NetworkServer\NetworkServer.vcproj" Description="Converting project file 'D:\AkoDev\Develop\VC\app\Network\NetworkServer\NetworkServer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="NetworkServer" Source="NetworkServer\NetworkServer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="NetworkServer" Source="NetworkServer\NetworkServer.vcproj" Description="Done converting to new project file 'D:\AkoDev\Develop\VC\app\Network\NetworkServer\NetworkServer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="NetworkServer" Source="NetworkServer\NetworkServer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Network.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Network.sln" Description="Converted">
+</Event></UpgradeLog>

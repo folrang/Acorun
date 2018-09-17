@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetworkServer", "NetworkServer\NetworkServer.vcxproj", "{6408725C-169E-4AC1-9981-5B82E078D7DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SHeapBuf_Test", "SHeapBuf_Test\SHeapBuf_Test.vcxproj", "{8B010D39-C6AB-4CB9-AB59-354271B6D353}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetworkClient", "NetworkClient\NetworkClient.vcxproj", "{378EDBA6-8C93-4977-8B3E-76B0D0261006}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exam_iocpserver", "exam_iocpserver\exam_iocpserver.vcxproj", "{116C096C-EDA2-4BC1-8C25-7F021DAFF869}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exam_iocpClient", "exam_iocpClient\exam_iocpClient.vcxproj", "{0A02E2D4-5FB2-496C-917D-D609CB978956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6408725C-169E-4AC1-9981-5B82E078D7DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6408725C-169E-4AC1-9981-5B82E078D7DB}.Debug|Win32.Build.0 = Debug|Win32
+		{6408725C-169E-4AC1-9981-5B82E078D7DB}.Release|Win32.ActiveCfg = Release|Win32
+		{6408725C-169E-4AC1-9981-5B82E078D7DB}.Release|Win32.Build.0 = Release|Win32
+		{8B010D39-C6AB-4CB9-AB59-354271B6D353}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B010D39-C6AB-4CB9-AB59-354271B6D353}.Debug|Win32.Build.0 = Debug|Win32
+		{8B010D39-C6AB-4CB9-AB59-354271B6D353}.Release|Win32.ActiveCfg = Release|Win32
+		{8B010D39-C6AB-4CB9-AB59-354271B6D353}.Release|Win32.Build.0 = Release|Win32
+		{378EDBA6-8C93-4977-8B3E-76B0D0261006}.Debug|Win32.ActiveCfg = Debug|Win32
+		{378EDBA6-8C93-4977-8B3E-76B0D0261006}.Debug|Win32.Build.0 = Debug|Win32
+		{378EDBA6-8C93-4977-8B3E-76B0D0261006}.Release|Win32.ActiveCfg = Release|Win32
+		{378EDBA6-8C93-4977-8B3E-76B0D0261006}.Release|Win32.Build.0 = Release|Win32
+		{116C096C-EDA2-4BC1-8C25-7F021DAFF869}.Debug|Win32.ActiveCfg = Debug|Win32
+		{116C096C-EDA2-4BC1-8C25-7F021DAFF869}.Debug|Win32.Build.0 = Debug|Win32
+		{116C096C-EDA2-4BC1-8C25-7F021DAFF869}.Release|Win32.ActiveCfg = Release|Win32
+		{116C096C-EDA2-4BC1-8C25-7F021DAFF869}.Release|Win32.Build.0 = Release|Win32
+		{0A02E2D4-5FB2-496C-917D-D609CB978956}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A02E2D4-5FB2-496C-917D-D609CB978956}.Debug|Win32.Build.0 = Debug|Win32
+		{0A02E2D4-5FB2-496C-917D-D609CB978956}.Release|Win32.ActiveCfg = Release|Win32
+		{0A02E2D4-5FB2-496C-917D-D609CB978956}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
